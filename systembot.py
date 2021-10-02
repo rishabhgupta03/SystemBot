@@ -1,9 +1,9 @@
 import os
 import time
 print()
-print()
+
 print("\tWELCOME TO SYSTEM BOT")
-print()
+
 print()
 while True:
     cmd = input("what do you want to do? ")
